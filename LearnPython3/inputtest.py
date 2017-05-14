@@ -1,0 +1,5 @@
+s = input("Please enter 2 numbers in x,y format : ")
+a, b = s.split(',')
+a = float(a)
+b = float(b)
+print(a + b)

@@ -1,0 +1,3 @@
+expr = input("Enter a valid expression : ")
+print("Value of expression ")
+print(eval(expr))
